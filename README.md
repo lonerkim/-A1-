@@ -1,5 +1,3 @@
----
-
 ## 업그레이드 목록
 
 ### 1. 킹룬 종이스풀 PETG 라이너
@@ -56,7 +54,3 @@
 
 ### 11. 보우덴 클립
 - **모델 링크**: [보우덴 클립](https://makerworld.com/en/models/608940#profileId-531964)
-
---- 
-
-This should work well for a README file in both Korean and well-organized format.
